@@ -1,0 +1,4 @@
+TIPS:
+- make sure opengl stuff happens in same Thread as GameWindow creation
+
+? change relative 'get' system to use bit-masking logic instead of modulus/division
